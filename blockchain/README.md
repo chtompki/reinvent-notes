@@ -20,4 +20,4 @@ __Note.__ "PWC" is PricewaterhouseCoopers...hrm woa.
 
 # No code, this is bogus.
 
-[Multichain](http://www.multichain.com)
+[Multichain](http://www.multichain.com) - a "Private" (?) blockchain solution.
