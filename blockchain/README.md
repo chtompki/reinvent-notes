@@ -1,6 +1,8 @@
 blockchain.
 ===========
 
+__Note.__ "PWC" is PricewaterhouseCoopers...hrm woa.
+
 ### Public and Private Blockchains.
 
 * Ethereum
@@ -10,3 +12,10 @@ blockchain.
 ### PWC meets Blockchain meets AWS.
 
 * fail and fail fast.
+
+### Prior Experience...
+
+* Standard working paradigm with AWS using insances and such. Ok...this seems to be an advertisement....
+
+
+# No code, this is bogus.
