@@ -2,4 +2,5 @@ reinvent-notes.
 ===============
 
 * [Blockchain](./blockchain)
-* [EC2-Network-Ha](./ec2-network-ha)
+* [EC2 Network Ha](./ec2-network-ha)
+* [Formal Logic](./formal-logic)
