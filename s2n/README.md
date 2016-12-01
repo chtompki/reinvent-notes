@@ -80,5 +80,38 @@ __The ubiquity of the usage of this code leads to this 2 line bug causing a news
 * Make testing run quickly.
 * They are writing tests in Junit Like structure in __C__
 
+### Systematic Defence in Depth
+
+* We need to defend agains programmer error.
+* You need all the compiler warnings on.
+* Build in safety routines. E.G. null checks, and things like that. Object copy and such.
+* Use super solid IO support and use libraries. Standards....solid.
+* You should always be skeptical...Never trust that's coming in and being consumed.
+* This is a great talk for my commons work.
+
+### Verification
+
+* More defence in depth.
+* Full automated prooving that the code is formally verified.
+* Full audits of the codebase. Encourage audits. And always use github issue tracker.
+* Automated "fuzz" testing. I'm not sure what the hell this is, but I should know.
+* The "SAW" tests that formally prove the cryptographic implementations are correct.
+
+### Where are we (s2n) today.
+
+* "s2n" is really server side based and not based on the client side.
+* It intentionally doesn't support very much.
+    * e.g. it doesn't support client cert authentication, which they are working on.
+* Used in production
+* 11 non-Amazonian contributors.
+* It's a super small project, but that's expected.
+* ~2.5% performance improvement, interms of throughput over OpenSSl. This is super impressive.
+
+### Key Takeaways.
+
+* The goals, development principals, and code guidelines.
+* Value clear conside and readable code.
+* Make testing easy, fast, and habitual.
+* Formal verification is getting easier quickly. (Kinda).
 
 
