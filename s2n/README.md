@@ -50,17 +50,35 @@ __The ubiquity of the usage of this code leads to this 2 line bug causing a news
 * Their processes are super rigorous. This is fairly impressive.
 * How to actually get this fully running generally. That initial implementation was for one case, but there are a ton of cases on how to run this.
 
-### Things to focus on.
-
-* Team Culture
-* Simple designs, readable code
-* Quick, easy
-
 ### Team Culture
 
 * agree and document goals priorities, and tenents
 * agree and document our coding guidelines.
 * make testing and safety easy and fast (this is super important).
 * think hard about high-level design.
+* Checkout the [DEVELOPMENBT-GUIDE.md](https://github.com/awslabs/s2n/blob/master/docs/DEVELOPMENT-GUIDE.md)
 
-###
+### Simple designs, readable code
+
+* Focused on clean consistent, __readable__ code.
+* Include verbose comments to provide context and explain __why_ we're doing something. Sode should be self documenting about __what__ we're doing.
+* __Automate__ code formatting.
+* This is super solid, and a great place to explain how to write code.
+* Value less code over more code. Defect reates are generally measured per line.
+* Avoid branches.
+* Small simple discrete functions.
+* Optimize for brain space.
+* Split message handling from flow control.
+* Do fewer things.
+* Instead of branching, bail on unwanted conditions. This becomes easier to read.
+
+### Quick easy habitual testing.
+
+* No one is Frank Zappa (geting it right flawlessly from the beginning).
+* Tests should be easy enough to write that no one should not write them.
+* Testing should be like brushing your teeth.
+* Make testing run quickly.
+* They are writing tests in Junit Like structure in __C__
+
+
+
