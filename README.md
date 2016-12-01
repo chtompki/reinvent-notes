@@ -12,6 +12,7 @@ reinvent-notes.
 
 * [Another Day Another Billion Packets](./another-billion-packets)
 * [Amazon EFS Deep Dive](./efs-deep-dive)
+* [Toyota Racing](./toyota-racing)
 
 
 ## Important findings.
