@@ -14,6 +14,9 @@ reinvent-notes.
 * [Amazon EFS Deep Dive](./efs-deep-dive)
 * [Toyota Racing](./toyota-racing)
 
+### 12/1
+
+*[Cryptography and OpenSource at AWS](./s2n)
 
 ## Important findings.
 
