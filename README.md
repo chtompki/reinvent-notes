@@ -18,6 +18,7 @@ reinvent-notes.
 
 * [Cryptography and OpenSource at AWS](./s2n)
 * [Deploy a Scalable SAP Hybris Cluster with Docker on Amazon ECS](./docker-hybris)
+* [Wild Rydes](./bots)
 
 ## Important findings.
 
