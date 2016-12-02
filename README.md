@@ -4,21 +4,21 @@ reinvent-notes.
 
 ### 11/29
 
-* [Blockchain](./blockchain)
-* [EC2 Network Ha](./ec2-network-ha)
-* [Formal Logic](./formal-logic)
+* [Blockchain](./blockchain) - *Horrible*
+* [EC2 Network Ha](./ec2-network-ha) - *Very Good*, outside my wheel-house.
+* [Formal Logic](./formal-logic) - *Amazing*
 
 ### 11/30
 
-* [Another Day Another Billion Packets](./another-billion-packets)
-* [Amazon EFS Deep Dive](./efs-deep-dive)
-* [Toyota Racing](./toyota-racing)
+* [Another Day Another Billion Packets](./another-billion-packets) - *Really interesting*
+* [Amazon EFS Deep Dive](./efs-deep-dive) - *Good*
+* [Toyota Racing](./toyota-racing) - *Ok*
 
 ### 12/1
 
-* [Cryptography and OpenSource at AWS](./s2n)
-* [Deploy a Scalable SAP Hybris Cluster with Docker on Amazon ECS](./docker-hybris)
-* [Wild Rydes](./bots)
+* [Cryptography and OpenSource at AWS](./s2n) - *Very Good*
+* [Deploy a Scalable SAP Hybris Cluster with Docker on Amazon ECS](./docker-hybris) - *Horrible*
+* [Wild Rydes](./bots) - *Ok*
 
 ## Important findings.
 
