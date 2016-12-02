@@ -35,3 +35,5 @@ reinvent-notes.
 The automated prover shit that Byron Cook did was really amazing. Look at formal logic.
 
 The [s2n](./s2n) talk is really important about how to write code the right way!!
+
+Elastic File System could be a faster way to do production releases because of nolonger neeidng to install anything.
